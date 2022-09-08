@@ -1,3 +1,6 @@
 [submodule "ecomm-dashboard"]
 	path = ecomm-dashboard
 	url = https://github.com/sreeparnadas/ecomm-dashboard.git
+[submodule "ecomm-backend"]
+	path = ecomm-backend
+	url = https://github.com/sreeparnadas/ecomm-backend.git
